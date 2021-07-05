@@ -1,2 +1,2 @@
-# funscribe-me
+# funscribe.me
 Unsubscribing made fun.
